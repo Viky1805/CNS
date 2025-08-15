@@ -28,7 +28,7 @@ becomes C. To change a message back, each letter is replaced by the one three be
 
 
 PROGRAM :-
-
+```
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
@@ -141,7 +141,6 @@ int main() {
     }
     return 0;
 }
-
-
+```
 OUTPUT :-
 <img width="1634" height="893" alt="image" src="https://github.com/user-attachments/assets/daa23671-a605-403b-9a96-f778491f672b" />
